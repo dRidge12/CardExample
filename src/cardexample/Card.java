@@ -1,5 +1,7 @@
 package cardexample;
 
+
+//line added for 2nd commit
 public class Card {
    private String suit;
    private int value;
