@@ -1,7 +1,8 @@
 package cardexample;
 
 
-//line added for 2nd commitA
+//line added for 2nd commit
+// line added for bugfix branch but i still am lost as hell
 public class Card {
    private String suit;
    private int value;
