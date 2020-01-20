@@ -1,7 +1,7 @@
 package cardexample;
 
 
-//line added for 2nd commit
+//line added for 2nd commitA
 public class Card {
    private String suit;
    private int value;
@@ -19,7 +19,7 @@ public class Card {
     }
 
     /**
-     * @param s
+     * @param suit
      */
     public void setSuit(String suit) {
         if(suit.equals("Spades")||suit.equals("Clubs")||suit.equals("Hearts")||suit.equals("Diamonds")){
